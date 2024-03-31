@@ -1,1 +1,3 @@
 # DataTimeSeriesTasks
+
+- Domains: Trading, EEG
